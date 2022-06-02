@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+
+## from clone 
+/target
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
